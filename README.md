@@ -1,2 +1,4 @@
-# next_word_prediction
-te tre possibili parole adatte per la continuazione della frase.
+# Word2Vec e predizione prossima parola - Lorenzo Busin
+Il Natural Language Processing (NLP) è il processo di elaborazione del linguaggio naturale e di comprensione di un testo scritto o del parlato in modo simile a come viene compreso dagli umani. Per linguaggio naturale si intende la lingua che usiamo nella vita di tutti i giorni, ad esempio l’italiano o l'inglese, ed è sinonimo di linguaggio umano, distinguendolo quindi da un linguaggio formale. Rispetto ad un linguaggio formale, esso è molto più complesso, contiene spesso sottointesi e ambiguità, il che lo rende molto difficile da elaborare. Sono diverse le applicazioni del NLP, tra queste vi si può trovare: controllo ortografico, classificazione del testo, traduzione automatica, risposta automatica a domande e predizione di parole.
+
+L'idea alla base di questo progetto didattico è quella di provare a prevedere quale sarà la parola successiva in un meccanismo simile a quello che è possibile trovare nelle keyboards degli smartphone, suggerendo all'utente tre possibili parole adatte per la continuazione della frase.
